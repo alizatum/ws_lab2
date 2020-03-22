@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="lab1_ws@localhost" uuid="67509520-84be-486e-a330-7ee2f5e16b18">
+      <database-info product="PostgreSQL" version="12.2 (Ubuntu 12.2-1.pgdg16.04+1)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.5">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <introspection-schemas>lab1_ws:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>
